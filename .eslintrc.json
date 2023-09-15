@@ -4,7 +4,8 @@
     "**/*"
   ],
   "plugins": [
-    "@nrwl/nx"
+    "@nrwl/nx",
+    "plugin:prettier/recommended"
   ],
   "overrides": [
     {

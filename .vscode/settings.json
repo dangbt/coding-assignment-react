@@ -1,0 +1,18 @@
+{
+  "telemetry.enableTelemetry": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"],
+  "editor.detectIndentation": true,
+  "files.exclude": {
+    "node_modules": false,
+    "**/dist": true,
+    "out": true,
+    ".next": false,
+    "yarn.lock": false,
+    "yarn-error.log": true
+  },
+  "typescript.implementationsCodeLens.enabled": true,
+  "typescript.referencesCodeLens.enabled": true,
+}
